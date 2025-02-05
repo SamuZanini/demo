@@ -17,3 +17,5 @@ public class DemoApplication {
       return String.format("Hello %s!", name);
     }
 }
+
+// digitar ".\gradlew.bat bootRun" no terminal para rodar o projeto. Digitar "http://localhost:8080/hello" no navegador para ver o resultado. Pode digitar "http://localhost:8080/hello?name=Alguém" para mudar o nome exibido.
